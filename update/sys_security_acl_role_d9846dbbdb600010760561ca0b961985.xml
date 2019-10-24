@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:26:15</sys_created_on>
+        <sys_id>d9846dbbdb600010760561ca0b961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_122630_test_git_git_table.x_122630_test_git.git_table_user</sys_name>
+        <sys_package display_value="test git" source="x_122630_test_git">ebd1253bdb600010760561ca0b961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test git">ebd1253bdb600010760561ca0b961921</sys_scope>
+        <sys_security_acl display_value="x_122630_test_git_git_table">59846dbbdb600010760561ca0b961982</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d9846dbbdb600010760561ca0b961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 06:26:15</sys_updated_on>
+        <sys_user_role display_value="x_122630_test_git.git_table_user" name="x_122630_test_git.git_table_user">59842dbbdb600010760561ca0b961914</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

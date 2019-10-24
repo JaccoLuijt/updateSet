@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="GIT table">d9846dbbdb600010760561ca0b96197d</application>
+        <filter/>
+        <name>GIT tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_122630_test_git.git_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:26:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd846dbbdb600010760561ca0b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT tables</sys_name>
+        <sys_package display_value="test git" source="x_122630_test_git">ebd1253bdb600010760561ca0b961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test git">ebd1253bdb600010760561ca0b961921</sys_scope>
+        <sys_update_name>sys_ui_module_dd846dbbdb600010760561ca0b96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 06:26:15</sys_updated_on>
+        <table>x_122630_test_git_git_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Is it filled">06b925ffdb600010760561ca0b9619a3</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="GIT flow">a865e13fdb600010760561ca0b96192a</flow>
+        <order>2.1</order>
+        <parent_ui_id>b0db91a1-db73-4c81-90b0-5827858a3971</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:50:25</sys_created_on>
+        <sys_id>530a29ffdb600010760561ca0b961977</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test git" source="x_122630_test_git">ebd1253bdb600010760561ca0b961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test git">ebd1253bdb600010760561ca0b961921</sys_scope>
+        <sys_update_name>sys_hub_action_instance_530a29ffdb600010760561ca0b961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 07:18:22</sys_updated_on>
+        <ui_id>971d7f92-7251-41f3-8eb8-b11eef39e56d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=530a29ffdb600010760561ca0b961977"/>
+    <sys_element_mapping action="delete_multiple" query="id=530a29ffdb600010760561ca0b961977"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>check_this_value_for_being_filled</field>
+        <id>530a29ffdb600010760561ca0b961977</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:50:25</sys_created_on>
+        <sys_id>170a29ffdb600010760561ca0b96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 06:50:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9258ad7fdb600010760561ca0b961972</table>
+        <value>{{Created_1.current.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>check_this_value_for_being_filled</field>
+        <id>530a29ffdb600010760561ca0b961977</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:50:29</sys_created_on>
+        <sys_id>981a69ffdb600010760561ca0b96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 06:50:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_06b925ffdb600010760561ca0b9619a3</table>
+        <value>{{Created_1.current.name}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>git_flow</internal_name>
+        <label_cache>[{"name":"a4ed2906-5fc1-4e21-aa3f-bc3d22437145.table_name","label":"2.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"a4ed2906-5fc1-4e21-aa3f-bc3d22437145.record","label":"2.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time"},{"name":"36781b1a-20e2-4ce7-b442-85aa9e605063.Record.work_end","label":"1➛Task Record➛Actual end","reference":"","reference_display":"Actual end","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"task","column_name":"work_end"},{"name":"Created_1.current.link_to_task.sys_id","label":"Trigger➛GIT table Record➛link to task➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"task","column_name":"sys_id"},{"name":"36781b1a-20e2-4ce7-b442-85aa9e605063.Table","label":"1➛Task Table","reference":"task","reference_display":"Task","type":"table_name","base_type":"table_name"},{"name":"36781b1a-20e2-4ce7-b442-85aa9e605063.Record","label":"1➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"}]</label_cache>
+        <master>true</master>
+        <name>GIT flow</name>
+        <outputs/>
+        <parent_flow display_value="GIT flow">a865e13fdb600010760561ca0b96192a</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:35:50</sys_created_on>
+        <sys_id>2db6a17fdb600010760561ca0b961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT flow</sys_name>
+        <sys_package display_value="test git" source="x_122630_test_git">ebd1253bdb600010760561ca0b961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test git">ebd1253bdb600010760561ca0b961921</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_2db6a17fdb600010760561ca0b961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 06:35:50</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=2db6a17fdb600010760561ca0b961966"/>
+    <sys_variable_value action="delete_multiple" query="document_key=2db6a17fdb600010760561ca0b961966"/>
+</record_update>
